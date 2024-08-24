@@ -1,0 +1,10 @@
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\bin\Debug\WindowsPyoyecend.exe.config
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\bin\Debug\WindowsPyoyecend.exe
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\bin\Debug\WindowsPyoyecend.pdb
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\obj\Debug\WindowsPyoyecend.csproj.AssemblyReference.cache
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\obj\Debug\WindowsPyoyecend.Form1.resources
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\obj\Debug\WindowsPyoyecend.Properties.Resources.resources
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\obj\Debug\WindowsPyoyecend.csproj.GenerateResource.cache
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\obj\Debug\WindowsPyoyecend.csproj.CoreCompileInputs.cache
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\obj\Debug\WindowsPyoyecend.exe
+D:\Codigos\WindowsPyoyecend\WindowsPyoyecend\obj\Debug\WindowsPyoyecend.pdb
